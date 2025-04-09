@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1.3,
+    "name": "PUMA Kids' Comet 2 Shoes",
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/194776/01/sv01/fnd/IND/fmt/png/Comet-2-Alt-Youth-Shoes",
+    "price": "₹3699"
+  },
+  {
+    "id": 2.3,
+    "name": "PUMA Kids' Training T-Shirt",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBF9e945P79WCDFZ0W_YgwCidVleYpPtZgrA&s",
+    "price": "₹899"
+  },
+  {
+    "id": 3.3,
+    "name": "PUMA Kids' Flyer Runner Shoes",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvj6-4EaludCiPYW8Iq1PTHna2tvZaVU_4_g&s",
+    "price": "₹4499"
+  },
+  {
+    "id": 4.3,
+    "name": "PUMA Kids' Graphic Hoodie",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS40K2nKdOvxs-0xWBjSH20_ctfJctvVF-Tg&s",
+    "price": "₹1999"
+  },
+  {
+    "id": 5.3,
+    "name": "PUMA Kids' Baseball Cap",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230831/lpYc/64f098c9afa4cf41f59ac938/-1117Wx1400H-466517101-pink-MODEL.jpg",
+    "price": "₹699"
+  },
+  {
+    "id": 6.3,
+    "name": "PUMA Kids' Colorblock Backpack",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThL9LUEabz0fQuAvRwVkwOIBvcYvx54Mwbcg&s",
+    "price": "₹1599"
+  },
+  {
+    "id": 7.3,
+    "name": "PUMA Kids' Future Rider Sneakers",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7JeLloP094sPbXfadFcdIlFGrWFmBOrfeQ&s",
+    "price": "₹5399"
+  },
+  {
+    "id": 8.3,
+    "name": "PUMA Kids' Sweatpants",
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/682777/01/fnd/IND/fmt/png/PUMA-SQUAD-Youth-Sweatpants",
+    "price": "₹1499"
+  },
+  {
+    "id": 9.3,
+    "name": "PUMA Kids' Drift Cat Ultra Shoes",
+    "img": "https://m.media-amazon.com/images/I/51pjSSrDf3L._AC_UY1000_.jpg",
+    "price": "₹3999"
+  },
+  {
+    "id": 10.3,
+    "name": "PUMA Kids' Training Shorts",
+    "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/30193488/2024/7/12/fdc02d31-1043-405f-ada1-5034500500641720758505456teamLIGATrainingYouthFootballUnisexShorts1.jpg",
+    "price": "₹999"
+  },
+  {
+    "id": 11.3,
+    "name": "PUMA Kids' Water Bottle",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHNJ-k47eOtrhQneU0vyM-Y8g0k-gONOhzg&s",
+    "price": "₹799"
+  },
+  {
+    "id": 12.3,
+    "name": "PUMA Kids' Roma Basic Shoes",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCDaTidP_jIaxCXYM1WGkPOiht5u9HfGIdA&s",
+    "price": "₹4299"
+  },
+  {
+    "id": 13.3,
+    "name": "PUMA Kids' Graphic T-Shirt",
+    "img": "https://images.puma.net/images/624844/38/mod01/fnd/IND/w/800/h/800/",
+    "price": "₹1099"
+  },
+  {
+    "id": 14.3,
+    "name": "PUMA Kids' Thunder Spectra Sneakers",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzErEWcaf3JJEGcmn0be5_HKX1xT-z4Wal_g&s",
+    "price": "₹6399"
+  },
+  {
+    "id": 15.3,
+    "name": "PUMA Kids' Gloves",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNirZVO0PK0yAZp381ueKXa342vog4ucHUlw&s",
+    "price": "₹499"
+  },
+  {
+    "id": 16.3,
+    "name": "PUMA Kids' Sports Backpack",
+    "img": "https://images.puma.net/images/079514/03/fnd/IND/w/800/h/800/",
+    "price": "₹1899"
+  },
+  {
+    "id": 17.3,
+    "name": "PUMA Kids' Ultra Play Football Shoes",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5ERVLMC7Z82OwpT93rNbzboMU60OQUkbNw&s",
+    "price": "₹5799"
+  },
+  {
+    "id": 18.3,
+    "name": "PUMA Kids' Running Cap",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxN4Ko9a87fC9jXvGnxAF45FHJehp34eLqvA&s",
+    "price": "₹799"
+  },
+  {
+    "id": 19.3,
+    "name": "PUMA Kids' Leggings",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaolBZc30Qls0B8B3-2gx2nFCkwdaXj5pyLQ&s",
+    "price": "₹1299"
+  },
+  {
+    "id": 20.3,
+    "name": "PUMA Kids' Velocity Nitro Shoes",
+    "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/22163814/2023/3/23/1eb10c41-894d-4a0e-8947-6be042a658571679567758690PumaKidsVelocityNitro2RunningShoes1.jpg",
+    "price": "₹7299"
+  }
+]

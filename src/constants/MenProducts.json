@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1.4,
+        "name": "Puma Tshirt ",
+        "price": "₹3499",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNsVdAHosxbPG8URzfwZKSrD0jcT5OYuA0w&s"
+    },
+    {
+        "id": 2.4,
+        "name": "Puma RS-X3 Puzzle Hoodie",
+        "price": "₹2499",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL3BgPK4O_I_IfRpE1jAcz-m6J93pqsuNEA&s"
+    },
+    {
+        "id": 3.4,
+        "name": "Puma Suede Classic Jacket",
+        "price": "₹4199",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_GqoUaSgvyvJ2BsDOrYCA5t7-2Ugvo4chw&s"
+    },
+    {
+        "id": 4.4,
+        "name": "Puma Future Rider Sweatpants",
+        "price": "₹2399",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/676019/01/mod01/fnd/IND/fmt/png/PUMA-SQUAD-Men's-Sweatpants"
+    },
+    {
+        "id": 5.4,
+        "name": "Puma Roma 68 ",
+        "price": "₹2999",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacRBHdvSEOjCFftZrMBCluTVU3nMmJ91KWQ&s"
+    },
+    {
+        "id": 6.4,
+        "name": "Puma Carson 2 FTR Shorts",
+        "price": "₹2499",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8oVsDSniK9e6ERJBuBGrgVBmsgv6T76Cgw&s"
+    },
+    {
+        "id": 7.4,
+        "name": "Puma Calibrate Runner Shoes",
+        "price": "₹3599",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/194828/01/fnd/PNA/fmt/png/Calibrate-Runner-Transit-Men's-Shoes"
+    },
+    {
+        "id": 8.4,
+        "name": "Puma Tazon 6 FM Sneakers",
+        "price": "₹2899",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZxmqkqGKcOnFWmOlkFQMY6Qitu6qofzRkA&s"
+    },
+    {
+        "id": 9.4,
+        "name": "Puma Cell Venom Shoes",
+        "price": "₹2799",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMzKn0-XRygfaeLE2XgZyusyHH2MwIbbHeg&s"
+    },
+    {
+        "id": 10.4,
+        "name": "Puma Sunglasses",
+        "price": "₹3999",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSve2bc67-8pOq5iHy65eRvcUD3QGEkcq-ebw&s"
+    },
+    {
+        "id": 11.4,
+        "name": "Puma RS-X Toys Wallet",
+        "price": "₹4199",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcwCBBnMBIWysq8qC2fE6Er1o9HwWIrXQJA&s"
+    },
+    {
+        "id": 12.4,
+        "name": "Puma Ultra 1.3 FG/AG Soccer Cleats",
+        "price": "₹2899",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTsTocV5BE8zOe4HEOLwGOdslMSuMbq6D3w&s"
+    },
+    {
+        "id": 13.4,
+        "name": "Puma Men's Solid Slim Jacket",
+        "price": "₹5199",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/846683/98/mod01/fnd/IND/fmt/png/PUMA-Men's-Padded-Jacket"
+    },
+    {
+        "id": 14.4,
+        "name": " PUMA Graphic Slim Fit Track Pants",
+        "price": "₹2199",
+        "img": "https://images.puma.net/images/845690/99/mod01/fnd/IND/w/800/h/800/"
+    },
+    {
+        "id": 15.4,
+        "name": "PUMA Zippered Graphic Slim Fit Pants",
+        "price": "₹3199",
+        "img": "https://images.puma.net/images/679435/17/mod01/fnd/IND/w/800/h/800/"
+    },
+    {
+        "id": 16.4,
+        "name": "RUN VELOCITY ULTRAWEAVE",
+        "price": "₹4199",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/525056/01/mod01/fnd/IND/fmt/png/RUN-VELOCITY-ULTRAWEAVE-Men's--5%22-Running-Shorts"
+    },
+    {
+        "id": 17.4,
+        "name": "Puma Wind Cheater",
+        "price": "₹1199",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBD1IrxcYZkaBXox6u0NvkLBH5cyFvsxn0A&s"
+    },
+    {
+        "id": 18.4,
+        "name": "Puma Hybrid Rocket Shoes",
+        "price": "₹2399",
+        "img": "https://images.jdmagicbox.com/quickquotes/images_main/puma-hybrid-rocket-runner-men-191592-red-12-164635163-qdfbq.jpg"
+    },
+    {
+        "id": 19.4,
+        "name": "Puma Suede Platform Sneakers",
+        "price": "₹2699",
+        "img": "https://m.media-amazon.com/images/I/41O6vJ7gFLL._AC_UY1000_.jpg"
+    },
+    {
+        "id": 20.4,
+        "name": "Puma Fast Rider Cap",
+        "price": "₹2299",
+        "img": "https://m.media-amazon.com/images/I/61vk2O5Y0SL._AC_UY1100_.jpg"
+    }
+]

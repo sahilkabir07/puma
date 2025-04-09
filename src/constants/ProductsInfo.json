@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "discount":"-40%",
+        "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/379437/01/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Unisex-Running-Shoes",
+        "title":"Skyrocket Lite Unisex Running",
+        "shoeType":"Shoes",
+        "price":"₹2,999",
+        "dropPrice":"₹4,999"
+    },
+    {
+        "id":2,
+        "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSDS5BWJSUe-VoBgU6Lqe1iSeOYd2DbYiNnxLuD6Ad9s-z2S_NX-vfatlj0viWM-gvPzUddqk-_uoEf248iw-cD0dXIzUxAhZO8EtV5iU3eDwUWZMB9VDiyR__mNoz3s1PECBaaTY&usqp=CAc",
+        "discount":"-30%",
+        "title":"Palermo Lth Unisex Sneakers",
+        "shoeType":"Sneakers",
+        "price":"₹6,999",
+        "dropPrice":"₹9,999"
+    },
+    {
+        "id":3,
+        "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMyGeBDl91u5xMKszRMUDLd5Q5pWORyggGa2aqCL4b4QgSjRMGsRnV65EHb0nLBuNdv7CMf37_foC_22IBY6f6Pz3cWUVA2MADXlK-IsZQ-c-_xWN7xh1nmm4dUuMtEn7y3TvoJ8Y&usqp=CAc",
+        "discount":"-30%",
+        "title":"Suede Classic XXI Unisex Sneakers",
+        "shoeType":"Sneakers",
+        "price":"₹4,899",
+        "dropPrice":"₹6,999"
+    },
+    {
+        "id":4,
+        "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQa4zuIE2G1QY974jzZx6anPgo0V8vpT2QdzIIRj3tndIKYOfK4GJtIj_aUsB87tJEytoZhuOf1RdPhhlVwUhVuSysufuseZmuSZ-OO-ebxuhku_Tyx_UkgN_T_NpGrL2WfJFls-A&usqp=CAc",
+        "discount":"-20%",
+        "title":"Wave Flip Res Unisex Flip-Flops",
+        "shoeType":"Flip-Flops",
+        "price":"₹1,599",
+        "dropPrice":"₹1,999"
+    },
+    {
+        "id":5,
+        "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYdhd5e58dXU_UnBotizHOzW12Na_0cTRMYshNPsoYNJCMjasrv29g5eCn9J1MijV_ftgszdcvn7G_GRMFNkM50pxuFNOClZ1CaRPT5rCuC23i3Ndk_tCjjAuwrS08Gmj0WylCY8s&usqp=CAc",
+        "discount":"-40%",
+        "title":"CA Pro Classic Unisex Sneakers",
+        "shoeType":"Sneakers",
+        "price":"₹4,799",
+        "dropPrice":"₹7,999"
+    },
+    {
+        "id":6,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRBrlli-olh_u0lRuDWNatB8oCNA777BwBQ&s",
+        "discount":"-55%",
+        "title":"Men's Slim Fit Polo T-Shirt",
+        "shoeType":"Shoes",
+        "price":"₹2,999",
+        "dropPrice":"₹4,999"
+    },
+    {
+        "id":7,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbW025KKUtmxeYeXS3RUsVBlYcmoGjW4EAw&s",
+        "discount":"-50%",
+        "title":"PUMA Foam Stride Mens's Running Shoes",
+        "shoeType":"Running Shoes",
+        "price":"₹2,249",
+        "dropPrice":"₹4,499"
+    },
+    {
+        "id":8,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWAj8nrl00YjHh3oKZkXAs2ympib_QnGzmA&s",
+        "discount":"-20%",
+        "title":"SOFTRIDE Frequence Unisex Runnning Shoes",
+        "shoeType":"Running Shoes",
+        "price":"₹6,399",
+        "dropPrice":"₹7,999"
+    }
+]

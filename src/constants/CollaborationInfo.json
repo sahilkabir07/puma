@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1.2,
+        "name": "PUMA x SQUID GAME Palermo",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1000,h_1000/global/401074/01/sv01/fnd/PHL/fmt/png/PUMA-x-SQUID-GAME-Palermo-Sneakers-Unisex",
+        "price": "₹3120"
+    },
+    {
+        "id": 2.2,
+        "name": "PUMA x LAMELO BALL MB.01 Alien Safari",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQnNTCsX_bzKfmoLLOA_4clxoXqiqNPGicA&s",
+        "price": "₹4150"
+    },
+    {
+        "id": 3.2,
+        "name": "PUMA x ROCKET LEAGUE Suede",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBJVbCTMLDIF9yfcA0hvnSkVfkJoRzh7-CQ&s",
+        "price": "₹1110"
+    },
+    {
+        "id": 4.2,
+        "name": "LaFrancé Gifted Sneakers",
+        "img": "https://cdn.sanity.io/images/pu5wtzfc/production/cf25ad95cbbbe115aa17643746d0135c4058d3cd-6643x8089.jpg/puma-lamelo-ball-lafrance-gifted-release-date-08.jpg?rect=4,0,6637,8089&w=320&h=390&auto=format",
+        "price": "₹2130"
+    },
+    {
+        "id": 5.2,
+        "name": "PUMA x HYROX Cloudspun",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yczS2jKgt1XW4M9-yNXTqxLkWcKCFBKAQ&s",
+        "price": "₹3190"
+    },
+    {
+        "id": 6.2,
+        "name": "FENTY x PUMA Avanti LS by Rihanna",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDXPsEh9O8GLgsPpeErUq3OaX9StLfygxQw&s",
+        "price": "₹2140"
+    },
+    {
+        "id": 7.2,
+        "name": "PUMA x A$AP ROCKY",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/402453/01/sv01/fnd/IND/fmt/png/A$AP-ROCKY-x-PUMA-Inhale-Distressed-Unisex-Sneakers",
+        "price": "₹3160"
+    },
+    {
+        "id": 8.2,
+        "name": "PUMA x HELIOT EMIL",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bIPxXAGLizmFaQutgc8Ug6JHNZEUB5932w&s",
+        "price": "₹1580"
+    },
+    {
+        "id": 9.2,
+        "name": "PUMA x KIDSUPER",
+        "img": "https://extrabutterny.in/cdn/shop/files/25_1bf6c1e6-4950-4f7f-bc4a-bb5d24941980.jpg?v=1728637239",
+        "price": "₹1950"
+    },
+    {
+        "id": 10.2,
+        "name": "PUMA x LMC",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQOjBQzSymLou9XBEK-fNr-BYGVW3cluFHAA&s",
+        "price": "₹2120"
+    },
+    {
+        "id": 11.2,
+        "name": "PUMA x THE BROOKLYN CIRCUS",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9xu11wxmYY3X_n8Po8pn90wZUEfEcC82u0A&s",
+        "price": "₹4135"
+    },
+    {
+        "id": 12.2,
+        "name": "PUMA x YONA",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/626711/27/mod01/fnd/IND/fmt/png/YONA-Women's-Tee",
+        "price": "₹2125"
+    },
+    {
+        "id": 13.2,
+        "name": "PUMA x ONE PIECE",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/396521/01/sv01/fnd/IND/fmt/png/PUMA-x-ONE-PIECE-Suede-Red-Haired-Shanks-Unisex-Sneakers",
+        "price": "₹4140"
+    },
+    {
+        "id": 14.2,
+        "name": "PUMA x PLAYSTATION®",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCorqcdZDno2Hu8r_VTmTmRBa4Nl5h2dJwkg&s",
+        "price": "₹2150"
+    },
+    {
+        "id": 15.2,
+        "name": "PUMA x SCOOBY-DOO",
+        "img": "https://images-static.nykaa.com/media/catalog/product/9/4/941479563164601_4.jpg?tr=w-500",
+        "price": "₹3110"
+    },
+    {
+        "id": 16.2,
+        "name": "PUMA x TMNT",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXcqTVNgkgSksxBEspXth7EAVpHx4np0VLkA&s",
+        "price": "₹1120"
+    },
+    {
+        "id": 17.2,
+        "name": "PUMA x F1®",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/308281/02/sv01/fnd/MEX/fmt/png/",
+        "price": "₹1800"
+    },
+    {
+        "id": 18.2,
+        "name": "PUMA x GABBY'S DOLLHOUSE",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_550,h_550/global/399750/01/sv01/fnd/EEA/fmt/png/PUMA-x-GABBY'S-DOLLHOUSE-Cali-Sneakers-Kids",
+        "price": "₹1900"
+    },
+    {
+        "id": 19.2,
+        "name": "PUMA x HARRY POTTER™",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/627809/01/mod05/fnd/IND/fmt/png/PUMA-HOOPS-x-HARRY-POTTER%E2%84%A2-Women's-Oversized-Rugby-Top",
+        "price": "₹3130"
+    },
+    {
+        "id": 20.2,
+        "name": "PUMA x POLAR EXPRESS",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/310396/01/mod01/fnd/PNA/fmt/png/All-Pro-NITRO%E2%84%A2-Polar-Express-Men's-Basketball-Shoes",
+        "price": "₹2115"
+    }
+]

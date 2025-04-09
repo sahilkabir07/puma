@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Puma Running Shoes",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/2/y/-original-imagzhztbr8jgfwx.jpeg?q=90&crop=false",
+      "price":  "₹1879.99",
+      "category": "Footwear"
+    },
+    {
+      "id": 2,
+      "name": "Puma Sports T-Shirt",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3TuhJ5fzyKCrRk6lHc3wuhVLCvQAOqvDXw&s",
+      "price": "₹2229.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 3,
+      "name": "Puma Backpack",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_B9_SYXarWK2zpK67NhI7Gf97JL2xAq8zAg&s",
+      "price": "₹2449.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Puma Soccer Ball",
+      "img": "https://m.media-amazon.com/images/I/81xdKlZre1L.jpg",
+      "price": "₹925.99",
+      "category": "Sports Equipment"
+    },
+    {
+      "id": 5,
+      "name": "Puma Cap",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3TTykr1Em5C8GQUEZNVdyxJ3ASz3EMxBSyg&s",
+      "price": "₹1119.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 6,
+      "name": "Puma Hoodie",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_813-4x4WtsLcef51Zr17H7g7du03AQ4v_A&s",
+      "price": "₹3959.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 7,
+      "name": "Puma Training Pants",
+      "img": "https://m.media-amazon.com/images/I/51KcqYdO7GL._AC_UY1100_.jpg",
+      "price": "₹1339.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 8,
+      "name": "Puma Wristbands",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcCp4sbGc6-_Vzc3KgU0gT2yIk3UCvYww5Q&s",
+      "price": "₹1444.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 9,
+      "name": "Puma Fitness Gloves",
+      "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/041467/01/fnd/IND/fmt/png/Training-Men's-Premium-Gloves",
+      "price": "₹1224.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 10.0,
+      "name": "Puma Basketball Shoes",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTuBdWgtzoHebzwyrWvfJXcYYVD-GeX1UBA&s",
+      "price": "₹1999.99",
+      "category": "Footwear"
+    },
+    {
+      "id": 11,
+      "name": "Puma Yoga Mat",
+      "img": "https://m.media-amazon.com/images/I/61E2GCSXbwL.jpg",
+      "price": "₹1834.99",
+      "category": "Sports Equipment"
+    },
+    {
+      "id": 12,
+      "name": "Puma Slides",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIDXXxi2VuVYPvrCW_0B_b0_o3307zUEW0Q&s",
+      "price": "₹2129.99",
+      "category": "Footwear"
+    },
+    {
+      "id": 13,
+      "name": "Puma Water Bottle",
+      "img": "https://m.media-amazon.com/images/I/61J01X8d4kL.jpg",
+      "price": "₹1712.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "name": "Puma Golf Hat",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmm8qd9z8sG7MMRDzuwlsKEPctdFma9WS7w&s",
+      "price": "₹2122.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 15,
+      "name": "Puma Windbreaker Jacket",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjVc8PzSqLibE2xwh3kzcysR5NEsI_75i1ZQ&s",
+      "price": "₹2989.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 16,
+      "name": "Puma Training Bag",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNeXJDOkVndgqwMqATtd0HqfnmuUCgHJj6Q&s",
+      "price": "₹2954.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 17,
+      "name": "Puma Compression Shorts",
+      "img": "https://rukminim2.flixcart.com/image/750/900/k3j1z0w0/short/r/t/d/l-518409-puma-original-imafmhb8byq898j9.jpeg?q=20&crop=false",
+      "price": "₹1727.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 18,
+      "name": "Puma Track Jacket",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLUcBkK4AQienvD2dlW14q9ntkN1ye4wA1A&s",
+      "price": "₹2174.99",
+      "category": "Apparel"
+    },
+    {
+      "id": 19,
+      "name": "Puma Running Socks",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDR5GEtVhyLX4nkG-_Hq0vXxBSAaRjVoa-w&s",
+      "price": "₹915.99",
+      "category": "Accessories"
+    },
+    {
+      "id": 20.0,
+      "name": "Puma Baseball Cap",
+      "img": "https://assets.ajio.com/medias/sys_master/root/hdc/hd2/14218132324382/-473Wx593H-460487127-black-MODEL.jpg",
+      "price": "₹2118.99",
+      "category": "Accessories"
+    }
+]

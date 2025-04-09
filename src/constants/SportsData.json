@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1.1,
+        "name": "PUMA Skipping Rope",
+        "img": "https://m.media-amazon.com/images/I/51YcuHFjrcL.jpg",
+        "price": "₹1,199"
+    },
+    {
+        "id": 2.1,
+        "name": "PUMA x HYROX Unisex Training Hairbands Pack",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/026238/01/fnd/EEA/fmt/png/PUMA-x-HYROX-Hairbands-(6-pack)",
+        "price": "₹999"
+    },
+    {
+        "id": 3.1,
+        "name": "Portuguese Football Federation Fan Ball",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/084541/03/bv/fnd/IND/fmt/png/Portugal-Football-Fan-Mini-Ball",
+        "price": "₹1,199"
+    },
+    {
+        "id": 4.1,
+        "name": "Unisex Printed Sliders",
+        "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/22154024/2023/3/17/6d82c90f-5d2d-46a3-913e-a79fe0d344401679050509041-Puma-Logo-Pop-Unisex-Slides-2591679050508612-1.jpg",
+        "price": "₹1,624"
+    },
+    {
+        "id": 5.1,
+        "name": "Unisex Royalcat Sliders",
+        "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/slipper-flip-flop/j/i/v/-original-imah4s2grmrf69zm.jpeg?q=90&crop=false",
+        "price": "₹2,499"
+    },
+    {
+        "id": 6.1,
+        "name": "Smashic Casual Sneakers",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYb5XV_7MAICotubKB31je3wSr0rBuXc9NA&s",
+        "price": "₹1,679"
+    },
+    {
+        "id": 7.1,
+        "name": "Unisex Round Toe Sneakers",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpP9RYb0KTBQaRgN5Q0U7R6ktsTINNX7Bdw&s",
+        "price": "₹3,299"
+    },
+    {
+        "id": 8.1,
+        "name": "Axelion Netherspace Running Shoes",
+        "img": "https://assets.ajio.com/medias/sys_master/root/20240820/T7nF/66c490fd1d763220fa87e666/-288Wx360H-469652158-black-MODEL.jpg",
+        "price": "₹3,200"
+    },
+    {
+        "id": 9.1,
+        "name": "Men Voltaic Evo Running Sports Shoes",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tz9zIOyt6eN7OVPZ5NAqjHr_YGv6TvwpfQ&s",
+        "price": "₹3,200"
+    },
+    {
+        "id": 10.1,
+        "name": "Unisex-Adult Mapf1 Leadcat 2.0 Graphic Slippers",
+        "img": "https://m.media-amazon.com/images/I/518KB3DXhmL._AC_UY1000_.jpg",
+        "price": "₹1,219"
+    },
+    {
+        "id": 11.1,
+        "name": "PUMA Future 7 Play IT Football Shoes",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/107939/01/sv01/fnd/IND/fmt/png/FUTURE-7-PLAY-FG/AG-Unisex-Football-Boots",
+        "price": "₹4,999"
+    },
+    {
+        "id": 12.1,
+        "name": "PUMA Ultra Play Football Shoes",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0M2jWWvzt8xDbPKuzuLCCepz_tK9XfQ1nQ&s",
+        "price": "₹5,499"
+    },
+    {
+        "id": 13.1,
+        "name": "PUMA x BMW M Motorsport Backpack",
+        "img": "https://rukminim2.flixcart.com/image/750/900/kdukgi80/backpack/9/w/x/bmw-m-mtsp-street-backpack-7731301-backpack-puma-26-original-imafunqjgughpsts.jpeg?q=20&crop=false",
+        "price": "₹3,999"
+    },
+    {
+        "id": 14.1,
+        "name": "PUMA x Mercedes AMG Petronas T-shirt",
+        "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/533601/01/mod04/fnd/IND/fmt/png/Mercedes-AMG-Petronas-F1-T7-Men's-Regular-Fit-T-Shirt",
+        "price": "₹2,799"
+    },
+    {
+        "id": 15.1,
+        "name": "PUMA Essentials Men's Track Pants",
+        "img": "https://assets.ajio.com/medias/sys_master/root/20231206/fgQH/65708e6cddf7791519b4e066/-473Wx593H-469535645-black-MODEL.jpg",
+        "price": "₹2,299"
+    },
+    {
+        "id": 16.1,
+        "name": "PUMA Active Men's Training Jacket",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZSSYtM88s4ZfLV0F2JXD6J_xviXPdyf9-9A&s",
+        "price": "₹4,999"
+    },
+    {
+        "id": 17.1,
+        "name": "PUMA Fundamentals Gym Sack",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkLjr1QrwCVqBnqCZYp3OqVCb2tO61Hr4ag&s",
+        "price": "₹1,199"
+    },
+    {
+        "id": 18.1,
+        "name": "PUMA x Red Bull Racing Cap",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhQUM5YtlxG8YLJyi8fm7BEzmQw14dhOFUw&s",
+        "price": "₹2,199"
+    },
+    {
+        "id": 19.1,
+        "name": "PUMA Gym Training Gloves",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThl8uEWntCTrMxwnFtx060h_9dw6--2k7TUw&s",
+        "price": "₹1,499"
+    },
+    {
+        "id": 20.1,
+        "name": "PUMA Men's Performance Polo T-shirt",
+        "img": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/30193645/2024/JULY/12/HbbnLzyJ_643ad41c5afb4f6aabcbe2951dd863fb.jpg",
+        "price": "₹2,799"
+    }
+]
