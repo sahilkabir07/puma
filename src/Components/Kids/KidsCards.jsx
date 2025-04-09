@@ -16,9 +16,8 @@ const KidsCards = () => {
         }
 
         try {
-            await addToCartAPI(item, token);
+            await addToCartAPI(token, item);
             setAddedToCart((prev) => ({ ...prev, [item.id]: true }));
-
             setTimeout(() => {
                 setAddedToCart((prev) => ({ ...prev, [item.id]: false }));
             }, 3000);

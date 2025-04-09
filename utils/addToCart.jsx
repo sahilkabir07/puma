@@ -1,46 +1,48 @@
 import axios from "axios";
-// import { jwt } from "jwt-decode"; // Importing the default function correctly
+import { jwtDecode } from 'jwt-decode';
 
-const addToCart = async (product, token) => {
-    // Check if the token exists
+const addToCart = async (token, product) => {
     if (!token) {
         throw new Error("User must be logged in to add items to the cart");
     }
 
     try {
-        // Decode the JWT token to extract the userId
-        const decodedToken = jwt(token);
-        const userId = decodedToken.userId;  // Assuming your JWT contains a `userId` property
+        const decodedToken = jwtDecode(token);
+        const userId = decodedToken._id;
+        console.log(userId);
 
-        // Check if the userId exists in the token
         if (!userId) {
             throw new Error("User ID not found in token");
         }
+        let rawPrice = product.price;
+        console.log('Product price received:', rawPrice);
 
-        // Validate the price of the product
-        const price = parseFloat(product.price);
-        if (isNaN(price)) {
-            throw new Error("Invalid price format");
+        if (!rawPrice) {
+            throw new Error('Product price is missing');
         }
 
-        // Ensure the product has a valid ID
+        if (typeof rawPrice === 'string') {
+            rawPrice = rawPrice.replace(/[^\d.]/g, ''); // remove ₹, Rs., etc.
+        }
+
+        const price = parseFloat(rawPrice);
+        if (isNaN(price)) {
+            throw new Error(`Invalid price format: ${product.price}`);
+        }
         if (!product.id) {
             throw new Error("Product ID is missing");
         }
-
-        // Prepare the payload to be sent to the backend
         const payload = {
-            productId: product.id.toString(), // Convert product ID to string
+            productId: product.id.toString(),
             name: product.name,
             img: product.img,
-            price,  // Store price as a number
-            quantity: 1, // Add one unit of the product by default
-            userId,  // Include userId from the decoded token
+            price,
+            quantity: 1,
+            userId,
         };
 
         console.log("🛒 Sending to backend:", payload);
 
-        // Make the API call to add the item to the cart
         const response = await axios.post(
             "http://localhost:5000/api/cart/add",
             payload,
